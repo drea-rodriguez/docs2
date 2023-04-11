@@ -49,6 +49,7 @@ module.exports = {
             'zkapps/advanced-snarkyjs/merkle-tree',
             'zkapps/advanced-snarkyjs/permissions',
             'zkapps/advanced-snarkyjs/time-locked-accounts',
+            'zkapps/advanced-snarkyjs/signatures-in-zkapps',
           ],
         },
         {
